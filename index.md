@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ConnectMe
 
 You can use the [editor on GitHub](https://github.com/hectordmontoya/connectme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+<div id='hcard_embed'><div id="hcard-Hector-Montoya-ConnectMe" class="vcard"><div class="fn n"><span class="given-name">Hector</span> <span class="family-name">Montoya</span></div><div class="org">ConnectMe</div><div class="spacer"></div><div class="email" ><a class="email" href="mailto:hectordmontoya@hotmail.com">hectordmontoya@hotmail.com</a></div><div class="tel"><span class="type">Voice: </span>3319185598</div><div class="spacer"></div></div><!--hCard created @  bVcard.com--><style type='text/css'> div.vcard { background-color: rgb(0, 115, 182); border-radius: 10px 10px 10px 10px; color: white; padding: 10px 10px; width: 250px; line-height: 1.2em; } div.vcard a{ color: white;} div.vcard div.fn{ font-weight: bold; border-bottom: 1px solid white; } div.vcard div.spacer{ min-height: 0.5em; } #hcard_embed{max-width: 270px;} .bvcardlink a{ line-height: 16px; color: darkgrey; font-size: 10px; float: right; padding-right: 20px; background: url('http://bvcard.com/sites/all/modules/bvcard_form/bvcard-fav.png') no-repeat top right; background-size:16px 16px;}</style><!--CLIP HERE to remove  bVcard.com link from hCard--><div class='bvcardlink'><a href='http:// bVcard.com' target='_BLANK'>Generate your own vCard.</a></div></div>
 1. Numbered
 2. List
 
