@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 14.0//EN
+N:Montoya;Hector;;;
+FN:Hector Montoya
+TEL;type=CELL;type=VOICE;type=pref:33 1918 5598
+item1.ADR;type=HOME;type=pref:;;Colina Verde 7511\nResidencial Aguacaliente;Tijuana;Baja California;;Mexico
+item1.X-ABADR:mx
+END:VCARD
